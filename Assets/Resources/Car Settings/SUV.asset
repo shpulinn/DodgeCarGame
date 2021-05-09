@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efae2a295ce8a4440bf3a2051ee3565c, type: 3}
+  m_Name: SUV
+  m_EditorClassIdentifier: 
+  dodgeScore: 20
+  maxSpeed: 30
+  acceleration: 0.1
+  carLightLenght: 1
+  renderCarPrefab: {fileID: 1307635527795650, guid: 95d537fb894ff75418f88fc496d5c779,
+    type: 3}
+  cameraPosition: {x: -2.36, y: 1.88, z: 5.87}
+  cameraRotation: {x: 0.023910515, y: 0.95673835, z: -0.082273714, w: 0.27804878}
